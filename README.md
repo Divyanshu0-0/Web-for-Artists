@@ -442,21 +442,27 @@ All JS is in a single `<script>` block at the bottom, organized into 14 numbered
 ## 📄 License
 
 ```
-MIT License
+      GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Copyright (c) 2025 Zara Mehndi Artistry
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+                            Preamble
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.
+
 ```
 
 ---
