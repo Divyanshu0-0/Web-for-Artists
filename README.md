@@ -1,4 +1,4 @@
-# ✦ Zara Mehndi Artistry — Luxury Website
+# ✦ Sakura Mehndi Artistry — Luxury Website
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ## 🌟 Overview
 
-**Zara Mehndi Artistry** is a single-file, production-ready luxury website designed for a premium bridal mehndi artist brand. It delivers a cinematic digital experience — immersive 3D visuals, smooth GSAP animations, glassmorphism UI, and a complete booking workflow — all targeting high-end wedding clients.
+**Sakura Mehndi Artistry** is a single-file, production-ready luxury website designed for a premium bridal mehndi artist brand. It delivers a cinematic digital experience — immersive 3D visuals, smooth GSAP animations, glassmorphism UI, and a complete booking workflow — all targeting high-end wedding clients.
 
 The entire site is contained in **one self-sufficient HTML file** with zero build tools required. Just open in a browser.
 
@@ -228,7 +228,7 @@ Replace the SVG placeholder blocks with `<img>` tags:
 ```html
 <!-- Find the about-image-placeholder div and replace with: -->
 <div class="about-image-placeholder">
-  <img src="your-artist-photo.jpg" alt="Zara — Master Mehndi Artist"
+  <img src="your-artist-photo.jpg" alt="Sakura — Master Mehndi Artist"
        style="width:100%;height:100%;object-fit:cover;" />
 </div>
 ```
@@ -249,13 +249,13 @@ Two locations to update:
 
 ```html
 <!-- Floating CTA button (~line 590) -->
-<a href="https://wa.me/919876543210?text=...">
+<a href="https://wa.me/91 XXXXXXXXXX?text=...">
 
 <!-- Booking form JS (~line 700) -->
-const link = 'https://wa.me/919876543210?text=' + ...
+const link = 'https://wa.me/91 XXXXXXXXXX?text=' + ...
 ```
 
-Replace `919876543210` with your number (country code + number, no `+` or spaces).
+Replace `91 XXXXXXXXXX` with your number (country code + number, no `+` or spaces).
 
 ---
 
